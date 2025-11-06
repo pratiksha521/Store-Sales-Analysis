@@ -6,7 +6,7 @@ The goal is to convert raw Excel data into meaningful business insights for bett
 ---
 
 ## 🧰 Tools & Technologies  
-**MySQL**, **Excel**, **Power BI** *(for visualization)*  
+**MySQL**, **Excel**, **Power BI**
 
 ---
 
